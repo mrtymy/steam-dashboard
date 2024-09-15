@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9f5d8d6f-7f2c-415e-ba26-3c0aa34f7cee" name="ftp://154.56.32.80" url="https://www.deniznetcafe.com/steam-dashboard/">
+        <fileTransfer rootFolder="/domains/deniznetcafe.com/public_html/steam-dashboard" host="ftp.deniznetcafe.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
